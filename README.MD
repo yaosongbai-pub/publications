@@ -1,0 +1,26 @@
+-	J. Yu, **S. Yao**, J. Li, J. Li, R. Wang, B. Wang, W. Zhang, Experimental verification of rotating detonation engine with film cooling, _Physics of Fluids_, 36 (2024) 031708. (通讯作者)
+-	J. Li, J. Yu, J. Li, Y. Lei, **S. Yao**, W. Zhang, Investigation of hydrogen-enriched kerosene-fueled rotating detonation engine with multi-column film cooling, _Physics of Fluids_, 36 (2024) 016138. (通讯作者)
+-	J. Li, **S. Yao**, J. Yu, J. Li, Y. Lei, W. Zhang, Shock interactions and re-initiation mechanism of liquid ethanol-fueled rotating detonation wave, _Physics of Fluids_, 36 (2024). (通讯作者)
+-	J. Yu, **S. Yao**, J. Li, J. Li, C. Guo, W. Zhang, Numerical investigation of the rotating detonation engine with cat-ear-shaped film cooling holes under varying operating modes, _Aerospace Science and Technology_, 142 (2023) 108642. (通讯作者)
+-	J. Yu, **S. Yao**, J. Li, Y. Huang, C. Guo, W. Zhang, Effects of inlet and secondary flow conditions on the flow field of rotating detonation engines with film cooling, _International Journal of Hydrogen Energy_, 48 (2023) 9082-9094. (通讯作者)
+-	**S. Yao**, X. Tang, W. Zhang, Structure of a heterogeneous two-phase rotating detonation wave with ethanol–hydrogen–air mixture, _Physics of Fluids_, 35 (2023) 031712.
+-	**S. Yao**, X. Tang, W. Zhang, Adaptive operating mode switching process in rotating detonation engines, _Acta Astronautica_, 205 (2023) 239-246.
+-	**S. Yao**, C. Guo, W. Zhang, Effects of droplet evaporation on the flow field of hydrogen-enhanced rotating detonation engines with liquid kerosene, _International Journal of Hydrogen Energy_, 48 (2023) 33335-33345.
+-	J. Li, Y. Lei, **S. Yao**, J. Yu, J. Li, W. Zhang, Investigation of multi-stage evaporation and wave multiplicity of two-phase rotating detonation waves fueled by ethanol, _Acta Astronautica_, 213 (2023) 418-430. (通讯作者)
+-	**S. Yao**, A. Kronenburg, O.T. Stein, Efficient modeling of the filtered density function in turbulent sprays using ensemble learning, _Combustion and Flame_, 237 (2022) 111722.
+-	**S. Yao**, A. Kronenburg, A. Shamooni, O.T. Stein, W. Zhang, Gradient boosted decision trees for combustion chemistry integration, _Applications in Energy and Combustion Science_, 11 (2022).
+-	**S. Yao**, B. Wang, A. Kronenburg, O.T. Stein, Conditional scalar dissipation rate modeling for turbulent spray flames using artificial neural networks, _Proceedings of the Combustion Institute_, 38 (2021) 3371-3378.
+-	**S. Yao**, B. Wang, A. Kronenburg, O.T. Stein, Modeling of sub-grid conditional mixing statistics in turbulent sprays using machine learning methods, _Physics of Fluids_, 32 (2020) 115124.
+-	J. Ma, M. Luan, Z. Xia, J. Wang, S. Zhang, **S. Yao**, B. Wang, Recent progress, development trends, and consideration of continuous detonation engines, _AIAA Journal_, 58 (2020) 4976-5035.
+-	M. Luan, S. Zhang, Z. Xia, **S. Yao**, J.P. Wang, Analytical and numerical study of the expansion effect on the velocity deficit of rotating detonation waves, _Combustion Theory and Modelling_, 24 (2020) 761-774.
+-	S. Zhang, **S. Yao**, M. Luan, L. Zhang, J. Wang, Effects of injection conditions on the stability of rotating detonation waves, _Shock Waves_, 28 (2018) 1079-1087.
+-	Z. Ma, S. Zhang, M. Luan, **S. Yao**, Z. Xia, J. Wang, Experimental research on ignition, quenching, reinitiation and the stabilization process in rotating detonation engine, _International Journal of Hydrogen Energy_, 43 (2018) 18521-18529.
+-	**S. Yao**, X. Tang, J. Wang, Y. Shao, R. Zhou, Three-dimensional numerical study of flow particle paths in rotating detonation engine with a hollow combustor, _Combustion Science and Technology_, 189 (2017) 965-979.
+-	**S. Yao**, X. Tang, J. Wang, Numerical study of the propulsive performance of the hollow rotating detonation engine with a laval nozzle, _International Journal of Turbo & Jet-Engines_, 34 (2017).
+-	**S. Yao**, X. Tang, M. Luan, J. Wang, Numerical study of hollow rotating detonation engine with different fuel injection area ratios, _Proceedings of the Combustion Institute_, 36 (2017) 2649-2655.
+-	**S. Yao**, Z. Ma, S. Zhang, M. Luan, J. Wang, Reinitiation phenomenon in hydrogen-air rotating detonation engine, _International Journal of Hydrogen Energy_, 42 (2017) 28588-28598.
+-	**S. Yao**, X. Han, Y. Liu, J. Wang, Numerical study of rotating detonation engine with an array of injection holes, _Shock Waves_, 27 (2017) 467-476.
+-	**S. Yao**, J. Wang, Multiple ignitions and the stability of rotating detonation waves, _Applied Thermal Engineering_, 108 (2016) 927-936.
+-	Y. Liu, X. Han, **S. Yao**, J. Wang, A numerical investigation of the prompt oblique detonation wave sustained by a finite-length wedge, _Shock Waves_, 26 (2016) 729-739.
+-	**S. Yao**, M. Liu, J. Wang, Numerical investigation of spontaneous formation of multiple detonation wave fronts in rotating detonation engine, _Combustion Science and Technology_, 187 (2015) 1867-1878.
+-	Y. Liu, D. Wu, **S. Yao**, J. Wang, Analytical and numerical investigations of wedge-induced oblique detonation waves at low inflow Mach number, _Combustion Science and Technology_, 187 (2015) 843-856.
