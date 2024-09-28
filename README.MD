@@ -1,12 +1,15 @@
 -	J. Yu, **S. Yao**, J. Li, J. Li, R. Wang, B. Wang, W. Zhang, Experimental verification of rotating detonation engine with film cooling, _Physics of Fluids_, 36 (2024) 031708. (通讯作者)
 -	J. Li, J. Yu, J. Li, Y. Lei, **S. Yao**, W. Zhang, Investigation of hydrogen-enriched kerosene-fueled rotating detonation engine with multi-column film cooling, _Physics of Fluids_, 36 (2024) 016138. (通讯作者)
 -	J. Li, **S. Yao**, J. Yu, J. Li, Y. Lei, W. Zhang, Shock interactions and re-initiation mechanism of liquid ethanol-fueled rotating detonation wave, _Physics of Fluids_, 36 (2024). (通讯作者)
+- W. Qian, R. Shuai, Q. Meng, S. Roy, **S. Yao**, P. Wang, Mechanistic Insights into Effects of Perforation Direction on Thermal Hydraulic Performance of Ribs in a Rectangular Cooling Channel, _Aerospace_, 11 (2024) 675.
 -	J. Yu, **S. Yao**, J. Li, J. Li, C. Guo, W. Zhang, Numerical investigation of the rotating detonation engine with cat-ear-shaped film cooling holes under varying operating modes, _Aerospace Science and Technology_, 142 (2023) 108642. (通讯作者)
 -	J. Yu, **S. Yao**, J. Li, Y. Huang, C. Guo, W. Zhang, Effects of inlet and secondary flow conditions on the flow field of rotating detonation engines with film cooling, _International Journal of Hydrogen Energy_, 48 (2023) 9082-9094. (通讯作者)
 -	**S. Yao**, X. Tang, W. Zhang, Structure of a heterogeneous two-phase rotating detonation wave with ethanol–hydrogen–air mixture, _Physics of Fluids_, 35 (2023) 031712.
 -	**S. Yao**, X. Tang, W. Zhang, Adaptive operating mode switching process in rotating detonation engines, _Acta Astronautica_, 205 (2023) 239-246.
 -	**S. Yao**, C. Guo, W. Zhang, Effects of droplet evaporation on the flow field of hydrogen-enhanced rotating detonation engines with liquid kerosene, _International Journal of Hydrogen Energy_, 48 (2023) 33335-33345.
 -	J. Li, Y. Lei, **S. Yao**, J. Yu, J. Li, W. Zhang, Investigation of multi-stage evaporation and wave multiplicity of two-phase rotating detonation waves fueled by ethanol, _Acta Astronautica_, 213 (2023) 418-430. (通讯作者)
+- P. Wu, X. Cao, W. Chu, Z. Chen, H. Yuan, R. Wang, **S. Yao**, S. Juodkazis, W. Zhang, Fresnel zone plate sculptured out of diamond by femtosecond laser for harsh environments, _Optics Letters_, 48 (2023) 1379-1382.
+- Z. Zhu, P. Wu, S. Juodkazis, J. Wang, **S. Yao**, J. Yao, W. Zhang, Superhydrophobic and Anti-Icing Surface by Femtosecond Laser Direct Writing, _Advanced Engineering Materials_, 25 (2023) 2300575.
 -	**S. Yao**, A. Kronenburg, O.T. Stein, Efficient modeling of the filtered density function in turbulent sprays using ensemble learning, _Combustion and Flame_, 237 (2022) 111722.
 -	**S. Yao**, A. Kronenburg, A. Shamooni, O.T. Stein, W. Zhang, Gradient boosted decision trees for combustion chemistry integration, _Applications in Energy and Combustion Science_, 11 (2022).
 -	**S. Yao**, B. Wang, A. Kronenburg, O.T. Stein, Conditional scalar dissipation rate modeling for turbulent spray flames using artificial neural networks, _Proceedings of the Combustion Institute_, 38 (2021) 3371-3378.
