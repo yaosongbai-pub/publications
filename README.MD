@@ -1,3 +1,6 @@
+### SCI论文
+
+-	J. Yu, **S. Yao**, J. Li, J. Li, R. Wang, W. Zhang, Experimental investigation of the hydrogen-air rotating detonation engine with cat-ear-shaped film cooling holes, _International Journal of Hydrogen Energy_, 89 (2024) 1454-1465. (通讯作者)
 -	J. Yu, **S. Yao**, J. Li, J. Li, R. Wang, B. Wang, W. Zhang, Experimental verification of rotating detonation engine with film cooling, _Physics of Fluids_, 36 (2024) 031708. (通讯作者)
 -	J. Li, J. Yu, J. Li, Y. Lei, **S. Yao**, W. Zhang, Investigation of hydrogen-enriched kerosene-fueled rotating detonation engine with multi-column film cooling, _Physics of Fluids_, 36 (2024) 016138. (通讯作者)
 -	J. Li, **S. Yao**, J. Yu, J. Li, Y. Lei, W. Zhang, Shock interactions and re-initiation mechanism of liquid ethanol-fueled rotating detonation wave, _Physics of Fluids_, 36 (2024). (通讯作者)
